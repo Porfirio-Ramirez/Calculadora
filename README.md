@@ -1,18 +1,31 @@
-## Getting Started
+🧮 Calculadora en Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este programa es una calculadora básica que hice para practicar condicionales, switch y bucles en Java.
 
-## Folder Structure
+¿Qué hace?
 
-The workspace contains two folders by default, where:
+El programa muestra un menú con 5 opciones: sumar, restar, multiplicar, dividir y salir. El menú se repite hasta que el usuario decida cerrar. Según la opción elegida, pide dos números y muestra el resultado. También valida que no se pueda dividir entre cero.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+¿Qué aprendí haciendo esto?
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Usar do-while para mantener el menú activo
+Usar switch para manejar cada operación
+Validar entradas del usuario con if
+Declarar variables correctamente fuera de los bloques
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Ejemplo de ejecución
+
+==========================
+Calculadora
+==========================
+1. Sumar
+2. Restar
+3. Multiplicar
+4. Dividir
+5. Cerrar
+==========================
+Ingrese el primer numero: 10
+Ingrese el segundo numero: 5
+Resultado: 2.0
