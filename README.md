@@ -9,23 +9,10 @@ El programa muestra un menú con 5 opciones: sumar, restar, multiplicar, dividir
 ¿Qué aprendí haciendo esto?
 
 
-Usar do-while para mantener el menú activo
-Usar switch para manejar cada operación
-Validar entradas del usuario con if
-Declarar variables correctamente fuera de los bloques
+Usar do-while para mantener el menú activo.
+Usar switch para manejar cada operación.
+Validar entradas del usuario con if.
+Declarar variables correctamente fuera de los bloques.
 
 
-Ejemplo de ejecución
 
-==========================
-Calculadora
-==========================
-1. Sumar
-2. Restar
-3. Multiplicar
-4. Dividir
-5. Cerrar
-==========================
-Ingrese el primer numero: 10
-Ingrese el segundo numero: 5
-Resultado: 2.0
